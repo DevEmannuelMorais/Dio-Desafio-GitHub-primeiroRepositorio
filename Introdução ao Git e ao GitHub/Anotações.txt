@@ -9,4 +9,7 @@ ls -q -> Lista oculta
 pwd -> mostrar onde estamos
 cd.. -> voltar
 Git Clone -> Clonar o repositorio na maquina
+Git commit -m "" -> Commitar
+Git push origin main -> é usado para enviar o conteúdo do repositório local para um repositório remoto. 
+Git pull
  
